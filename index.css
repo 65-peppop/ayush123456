@@ -6,8 +6,8 @@ body {
 }
 
 .coll {
-  width: 600px;
-  height: 300px;
+  width: 300px;
+  height: 200px;
   object-fit: cover;
   cursor: pointer;
   transition: width 250ms ease, height 250ms ease;
